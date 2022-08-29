@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1cb86120-5307-48b4-8023-dd1d746d3bc7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Exercise/ex.5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise/ex.5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise/ex.5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise/ex.5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise/ex.5/ex.5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise/ex.5/src/datastr/ArrayCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise/ex.5/src/datastr/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise/ex.5/src/datastr/Collection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise/ex.5/src/datastr/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise/ex.5/src/datastr/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3.1.6434496423/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3.1.6434496423/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3.1.6434496423/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3.1.6434496423/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3.1.6434496423/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3.1.6434496423/lab3.1.6434496423.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3.1.6434496423/out/production/lab3.1.6434496423/datastr/ArrayList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3.1.6434496423/out/production/lab3.1.6434496423/datastr/Collection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3.1.6434496423/out/production/lab3.1.6434496423/datastr/LinkedList$LinkedNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3.1.6434496423/out/production/lab3.1.6434496423/datastr/LinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3.1.6434496423/out/production/lab3.1.6434496423/datastr/List.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3.1.6434496423/out/production/lab3.1.6434496423/lab/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3.1.6434496423/src/datastr/ArrayCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3.1.6434496423/src/datastr/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3.1.6434496423/src/datastr/Collection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3.1.6434496423/src/datastr/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3.1.6434496423/src/datastr/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3.1.6434496423/src/datastr/SinglyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3.2.6434496423.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab3.2.6434496423/datastr/ArrayCollection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab3.2.6434496423/datastr/ArrayList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab3.2.6434496423/datastr/Collection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab3.2.6434496423/datastr/LinkedList$LinkedNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab3.2.6434496423/datastr/LinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab3.2.6434496423/datastr/List.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab3.2.6434496423/datastr/SinglyLinkedList$LinkedNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab3.2.6434496423/datastr/SinglyLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab3.2.6434496423/lab/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastr/ArrayCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastr/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastr/Collection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastr/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastr/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastr/SinglyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2E1CY2h9oaTPqyjUSLzHogniUBU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/akkatung/Library/CloudStorage/OneDrive-ChulalongkornUniversity/work/Y2/Year 2 semester 1/D STRUC/LAB/DataStrucLab/LAB3/lab3.2.6434496423/src"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cb86120-5307-48b4-8023-dd1d746d3bc7" name="Changes" comment="" />
+      <created>1661753750351</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661753750351</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
