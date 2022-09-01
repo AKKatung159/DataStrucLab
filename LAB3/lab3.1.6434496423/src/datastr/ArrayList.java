@@ -79,4 +79,14 @@ public class ArrayList implements List {
         }
         return a;
     }
+    public String toString(){
+        String line="";
+        for (int i = 0; i < size; i++) {
+            line+=elementData[i];
+            if (i < size - 1) {
+                line+=(", ");
+            }
+        }
+        return line;
+    }
 }
