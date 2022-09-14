@@ -1,7 +1,6 @@
 package lab;
-import datastr.ArrayStack;
-import datastr.ArrayStack;
-import datastr.Stack;
+import datastr.ArrayQueue;
+import datastr.Queue;
 
 public class Lee {
     private static final int SPACE = -1;
@@ -25,21 +24,21 @@ public class Lee {
     static void findPath(Pos source, Pos target) {
         map[source.row][source.col] = 0;
         map[target.row][target.col] = SPACE;
-        Stack s = new ArrayStack(); s.push(source);
-        while (!s.isEmpty()) {
-            Pos p = (Pos) s.pop();
+        Queue q = new ArrayQueue(); q.enqueue(source);
+        while (!q.isEmpty()) {
+            Pos p = (Pos) q.dequeue();
             if (p.row == target.row && p.col == target.col) break;
-            expand(s, p.row + 1, p.col, map[p.row][p.col]);
-            expand(s, p.row - 1, p.col, map[p.row][p.col]);
-            expand(s, p.row, p.col + 1, map[p.row][p.col]);
-            expand(s, p.row, p.col - 1, map[p.row][p.col]);
+            expand(q, p.row + 1, p.col, map[p.row][p.col]);
+            expand(q, p.row - 1, p.col, map[p.row][p.col]);
+            expand(q, p.row, p.col + 1, map[p.row][p.col]);
+            expand(q, p.row, p.col - 1, map[p.row][p.col]);
         }
     }
-    static void expand(Stack s, int r, int c, int k) {
+    static void expand(Queue q, int r, int c, int k) {
         if (r < 0 || r >= map.length ||
                 c < 0 || c >= map[r].length ||
                 map[r][c] != SPACE) return;
         map[r][c] = k + 1;
-        s.push(new Pos(r, c));
+        q.enqueue(new Pos(r, c));
     }
 }
