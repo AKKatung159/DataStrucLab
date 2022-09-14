@@ -3,7 +3,7 @@ import datastr.ArrayStack;
 import datastr.ArrayStack;
 import datastr.Stack;
 
-public class Lee {
+public class Main {
     private static final int SPACE = -1;
     private static final int BLOCK = -9;
     private static int[][] map = new int[10][10];
