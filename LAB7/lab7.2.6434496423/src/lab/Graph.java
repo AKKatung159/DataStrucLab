@@ -1,18 +1,21 @@
+package lab;
+
+import datastr.LinearProbingHashMap;
+
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
 import java.util.Random;
 
 public class Graph {
     private Vertex[] arrayVertex;
     private Edge[] arrayEdge;
-    private HashMap hashMap;
+    private LinearProbingHashMap lphashMap;
 
     public Graph(int numVer, int numEdge) {
         Random r = new Random();
         arrayVertex = new Vertex[numVer];
         arrayEdge = new Edge[numEdge];
-        hashMap = new HashMap<>();
+        lphashMap = new LinearProbingHashMap(numVer*numVer);
         for (int i = 0; i < numVer; i++) {
             arrayVertex[i] = new Vertex(i);
         }
@@ -20,12 +23,12 @@ public class Graph {
             Edge a = new Edge(arrayVertex[r.nextInt(numVer)], arrayVertex[r.nextInt(numVer)]);
             while (true) {
                 a = new Edge(arrayVertex[r.nextInt(numVer)], arrayVertex[r.nextInt(numVer)]);
-                if (!hashMap.containsKey(a)) {
+                if (!lphashMap.containsKey(a)) {
                     break;
                 }
             }
             arrayEdge[i] = a;
-            hashMap.put(arrayEdge[i], r.nextInt(5) + 1);
+            lphashMap.put(arrayEdge[i], r.nextInt(5) + 1);
         }
     }
 
@@ -33,7 +36,7 @@ public class Graph {
         int k = 0;
         List listVertex = new ArrayList<>();
         List listEdge = new ArrayList<>();
-        hashMap = new HashMap<>();
+        lphashMap = new LinearProbingHashMap(adjacencyMatrix.length*adjacencyMatrix.length);
         for (int i = 0; i < adjacencyMatrix.length; i++) {
             for (int j = 0; j < adjacencyMatrix[0].length; j++) {
                 if (adjacencyMatrix[i][j] > 0) {
@@ -46,7 +49,7 @@ public class Graph {
                         listVertex.add(new Vertex(j));
                     }
                     listEdge.add(new Edge(new Vertex(i), new Vertex(j)));
-                    hashMap.put(listEdge.get(k), adjacencyMatrix[i][j]);
+                    lphashMap.put(listEdge.get(k), adjacencyMatrix[i][j]);
                     k++;
                 }
             }
@@ -58,8 +61,8 @@ public class Graph {
     }
 
     public int weight(Edge e) {
-        if (hashMap.containsKey(e)) {
-            return (int) hashMap.get(e);
+        if (lphashMap.containsKey(e)) {
+            return (int) lphashMap.get(e);
         }
         return 0;
     }
@@ -67,7 +70,7 @@ public class Graph {
     public int[][] toMatrix() {
         int[][] ans = new int[arrayVertex.length][arrayVertex.length];
         for (int i = 0; i < arrayEdge.length; i++) {
-            ans[arrayEdge[i].getSource()][arrayEdge[i].getDest()] = (int) hashMap.get(arrayEdge[i]);
+            ans[arrayEdge[i].getSource()][arrayEdge[i].getDest()] = (int) lphashMap.get(arrayEdge[i]);
         }
         return ans;
     }
@@ -81,6 +84,11 @@ public class Graph {
             }
             ans += "\n";
         }
+        return ans;
+    }
+    public String hashToString(){
+        String ans="";
+        ans+=lphashMap;
         return ans;
     }
 }
