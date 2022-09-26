@@ -2,57 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="092166ec-a93c-421c-a35a-2bc0a3695858" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Exercise/ex.8.2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exercise/ex.8.2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exercise/ex.8.2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exercise/ex.8.2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exercise/ex.8.2/ex.8.2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exercise/ex.8.2/out/production/ex.8.2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exercise/ex.8.2/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exercise/ex.8.2/src/Triple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7.1.6434496423.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lab7.1.6434496423/datastr/SeparateChainingHashMap$LinkedNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lab7.1.6434496423/datastr/SeparateChainingHashMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lab7.1.6434496423/lab/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lab7.1.6434496423/lab/register.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastr/LinearProbingHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastr/Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastr/SeparateChainingHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab/CourseGrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab/register.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab7.2.6434496423/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab7.2.6434496423/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab7.2.6434496423/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab7.2.6434496423/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab7.2.6434496423/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab7.2.6434496423/lab7.2.6434496423.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab7.2.6434496423/out/production/lab7.2.6434496423/datastr/LinearProbingHashMap$Entry.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab7.2.6434496423/out/production/lab7.2.6434496423/datastr/LinearProbingHashMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab7.2.6434496423/out/production/lab7.2.6434496423/datastr/Map.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab7.2.6434496423/out/production/lab7.2.6434496423/datastr/SeparateChainingHashMap$LinkedNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab7.2.6434496423/out/production/lab7.2.6434496423/datastr/SeparateChainingHashMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab7.2.6434496423/out/production/lab7.2.6434496423/lab/Edge.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab7.2.6434496423/out/production/lab7.2.6434496423/lab/Graph.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab7.2.6434496423/out/production/lab7.2.6434496423/lab/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab7.2.6434496423/out/production/lab7.2.6434496423/lab/Vertex.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab7.2.6434496423/src/datastr/LinearProbingHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab7.2.6434496423/src/datastr/Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab7.2.6434496423/src/datastr/SeparateChainingHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab7.2.6434496423/src/lab/Edge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab7.2.6434496423/src/lab/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab7.2.6434496423/src/lab/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab7.2.6434496423/src/lab/Vertex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise/ex.8.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise/ex.8.2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../LAB5/lab5.2.6434496423/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB5/lab5.2.6434496423/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../LAB6/lab6.1.6434496423/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB6/lab6.1.6434496423/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LAB6/lab6.1.6434496423/out/production/lab6.1.6434496423/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB6/lab6.1.6434496423/out/production/lab6.1.6434496423/Graph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LAB6/lab6.1.6434496423/src/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB6/lab6.1.6434496423/src/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab7.1.6434496423/datastr/SeparateChainingHashMap$LinkedNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab7.1.6434496423/datastr/SeparateChainingHashMap$LinkedNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab7.1.6434496423/datastr/SeparateChainingHashMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab7.1.6434496423/datastr/SeparateChainingHashMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastr/SeparateChainingHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastr/SeparateChainingHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab7.2.6434496423/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7.2.6434496423/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab7.2.6434496423/out/production/lab7.2.6434496423/lab/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7.2.6434496423/out/production/lab7.2.6434496423/lab/Graph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab7.2.6434496423/src/datastr/LinearProbingHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7.2.6434496423/src/datastr/LinearProbingHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab7.2.6434496423/src/lab/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7.2.6434496423/src/lab/Graph.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,5 +72,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lab/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -15,7 +15,7 @@ public class Graph {
         Random r = new Random();
         arrayVertex = new Vertex[numVer];
         arrayEdge = new Edge[numEdge];
-        lphashMap = new LinearProbingHashMap(numVer*numVer);
+        lphashMap = new LinearProbingHashMap(1);
         for (int i = 0; i < numVer; i++) {
             arrayVertex[i] = new Vertex(i);
         }
@@ -36,7 +36,7 @@ public class Graph {
         int k = 0;
         List listVertex = new ArrayList<>();
         List listEdge = new ArrayList<>();
-        lphashMap = new LinearProbingHashMap(adjacencyMatrix.length*adjacencyMatrix.length);
+        lphashMap = new LinearProbingHashMap(1);
         for (int i = 0; i < adjacencyMatrix.length; i++) {
             for (int j = 0; j < adjacencyMatrix[0].length; j++) {
                 if (adjacencyMatrix[i][j] > 0) {

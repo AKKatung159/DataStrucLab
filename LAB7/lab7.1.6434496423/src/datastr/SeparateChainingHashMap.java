@@ -1,6 +1,7 @@
 package datastr;
 
 import java.util.Arrays;
+import java.util.LinkedList;
 
 public class SeparateChainingHashMap implements Map {
     private static class LinkedNode {
@@ -44,6 +45,7 @@ public class SeparateChainingHashMap implements Map {
             int h = h(key);
             table[h] = new LinkedNode(key, value, table[h]);
             ++size;
+            if (size > table.length/2) rehash();
         }
         return oldValue;
     }
@@ -74,5 +76,14 @@ public class SeparateChainingHashMap implements Map {
             }
         }
         return ans;
+    }
+    private void rehash() {
+        LinkedNode[] oldT = table;
+        table = new LinkedNode[2 * table.length];
+        for (int i = 0; i < oldT.length; i++) {
+            if (oldT[i] != null) {
+                this.put(oldT[i].key,oldT[i].value);
+            }
+        }
     }
 }
