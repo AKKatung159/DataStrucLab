@@ -87,3 +87,15 @@ public class SeparateChainingHashMap implements Map {
         }
     }
 }
+//    private void rehash() {
+//        LinkedList[] oldTable = table;
+//        table = new LinkedList[2 * table.length];
+//        for (int i = 0; i < table.length; i++)
+//            table[i] = new LinkedList();
+//        for (int i = 0; i < oldTable.length; i++) {
+//            Object[] items = oldTable[i].toArray();
+//            for (int j = 0; j < items.length; j++) {
+//                table[h(items[j])].add(0, items[j]);
+//            }
+//        }
+//    }

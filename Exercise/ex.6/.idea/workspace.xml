@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e58c17a1-bcae-4612-89c9-6673efe2aa1b" name="Changes" comment="">
+    <list default="true" id="1cfe3a31-fe77-45b8-8a01-0718db58239c" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../ex/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ex/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ex/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ex/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ex/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex.8.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ex.8.2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../LAB3/lab3.1.6434496423/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB3/lab3.1.6434496423/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../LAB5/lab5.2.6434496423/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB5/lab5.2.6434496423/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../LAB6/lab6.1.6434496423/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB6/lab6.1.6434496423/.idea/workspace.xml" afterDir="false" />
@@ -21,53 +21,33 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2FHx5kNC652fXYdasD91K3tyBPM" />
+  <component name="ProjectId" id="2FhynCw3MGmD775GT0tYtRtGoP8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/akkatung/Library/CloudStorage/OneDrive-ChulalongkornUniversity/work/Y2/Year 2 semester 1/D STRUC/LAB/DataStrucLab/Exercise/ex.6"
   }
-}</component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="ex.8.2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
-  </component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e58c17a1-bcae-4612-89c9-6673efe2aa1b" name="Changes" comment="" />
-      <created>1664162631528</created>
+      <changelist id="1cfe3a31-fe77-45b8-8a01-0718db58239c" name="Changes" comment="" />
+      <created>1664958774336</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1664162631528</updated>
+      <updated>1664958774336</updated>
     </task>
     <servers />
   </component>

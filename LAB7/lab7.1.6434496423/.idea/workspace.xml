@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="092166ec-a93c-421c-a35a-2bc0a3695858" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Exercise/ex/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise/ex/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise/ex/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise/ex/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise/ex/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Exercise/ex.8.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise/ex.8.2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../LAB5/lab5.2.6434496423/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB5/lab5.2.6434496423/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../LAB6/lab6.1.6434496423/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB6/lab6.1.6434496423/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab7.1.6434496423/datastr/SeparateChainingHashMap$LinkedNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab7.1.6434496423/datastr/SeparateChainingHashMap$LinkedNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab7.1.6434496423/datastr/SeparateChainingHashMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab7.1.6434496423/datastr/SeparateChainingHashMap.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/datastr/SeparateChainingHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastr/SeparateChainingHashMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lab7.2.6434496423/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7.2.6434496423/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab7.2.6434496423/out/production/lab7.2.6434496423/lab/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7.2.6434496423/out/production/lab7.2.6434496423/lab/Graph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab7.2.6434496423/src/datastr/LinearProbingHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7.2.6434496423/src/datastr/LinearProbingHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab7.2.6434496423/src/lab/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7.2.6434496423/src/lab/Graph.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +50,26 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/lab" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.Main" />
+      <module name="lab7.1.6434496423" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
