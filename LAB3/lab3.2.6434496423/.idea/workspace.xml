@@ -2,49 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cb86120-5307-48b4-8023-dd1d746d3bc7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Exercise/BST/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exercise/BST/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exercise/BST/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exercise/BST/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exercise/BST/BST.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exercise/BST/out/production/BST/datastr/BTNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exercise/BST/src/datastr/BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exercise/BST/src/datastr/BTNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exercise/ex.6/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exercise/ex.6/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exercise/ex.6/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exercise/ex.6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exercise/ex.6/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exercise/ex.6/ex.6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exercise/ex/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exercise/ex/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exercise/ex/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exercise/ex/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exercise/ex/ex.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exercise/ex/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../LAB8/lab8.1.6434496423/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../LAB8/lab8.1.6434496423/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../LAB8/lab8.1.6434496423/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../LAB8/lab8.1.6434496423/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../LAB8/lab8.1.6434496423/lab8.1.6434496423.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../LAB8/lab8.1.6434496423/out/production/lab8.1.6434496423/BST.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../LAB8/lab8.1.6434496423/out/production/lab8.1.6434496423/BTNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../LAB8/lab8.1.6434496423/out/production/lab8.1.6434496423/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../LAB8/lab8.1.6434496423/src/BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../LAB8/lab8.1.6434496423/src/BTNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../LAB8/lab8.1.6434496423/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercise/ex.6/ex6/out/production/ex6/datastr/ArrayStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise/ex.6/ex6/out/production/ex6/datastr/ArrayStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercise/ex.6/ex6/src/datastr/ArrayStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise/ex.6/ex6/src/datastr/ArrayStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercise/ex.8.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise/ex.8.2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab3.1.6434496423/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3.1.6434496423/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise/heap/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise/heap/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise/heap/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise/heap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise/heap/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise/heap/heap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise/heap/out/production/heap/BinaryHeap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise/heap/out/production/heap/BinaryMaxHeap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise/heap/out/production/heap/BinaryMinHeap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise/heap/out/production/heap/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise/heap/out/production/heap/PriortyQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise/heap/out/production/heap/Queue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise/heap/src/BinaryHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise/heap/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise/heap/src/PriortyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise/heap/src/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise/BST/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise/BST/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise/BST/out/production/BST/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise/BST/out/production/BST/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise/BST/out/production/BST/datastr/BST.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise/BST/out/production/BST/datastr/BST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise/BST/out/production/BST/datastr/BTNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise/BST/out/production/BST/datastr/BTNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise/BST/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise/BST/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../LAB4/lab4.2.6434496423/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB4/lab4.2.6434496423/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../LAB5/lab5.2.6434496423/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB5/lab5.2.6434496423/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LAB6/lab6.1.6434496423/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB6/lab6.1.6434496423/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LAB6/lab6.1.6434496423/out/production/lab6.1.6434496423/Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB6/lab6.1.6434496423/out/production/lab6.1.6434496423/Edge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LAB7/lab7.1.6434496423/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB7/lab7.1.6434496423/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LAB7/lab7.1.6434496423/src/datastr/SeparateChainingHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB7/lab7.1.6434496423/src/datastr/SeparateChainingHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LAB7/lab7.2.6434496423/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB7/lab7.2.6434496423/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
