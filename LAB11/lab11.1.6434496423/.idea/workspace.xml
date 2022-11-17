@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ad54122-90a0-4e1e-b929-0a73d530d1f7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Exercise/Complete Binary tree/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise/Complete Binary tree/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise/Complete Binary tree/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise/Complete Binary tree/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise/Complete Binary tree/Complete Binary tree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise/Complete Binary tree/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise/Complete Binary tree/src/heap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LAB10/lab10.1.643449642/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LAB10/lab10.1.643449642/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LAB10/lab10.1.643449642/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LAB10/lab10.1.643449642/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LAB10/lab10.1.643449642/lab10.1.643449642.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LAB10/lab10.1.643449642/out/production/lab10.1.643449642/AVLNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LAB10/lab10.1.643449642/out/production/lab10.1.643449642/AVLTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LAB10/lab10.1.643449642/out/production/lab10.1.643449642/ArrayStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LAB10/lab10.1.643449642/out/production/lab10.1.643449642/BST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LAB10/lab10.1.643449642/out/production/lab10.1.643449642/BTNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LAB10/lab10.1.643449642/out/production/lab10.1.643449642/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LAB10/lab10.1.643449642/out/production/lab10.1.643449642/Stack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LAB10/lab10.1.643449642/src/AVLNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LAB10/lab10.1.643449642/src/AVLTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LAB10/lab10.1.643449642/src/ArrayStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LAB10/lab10.1.643449642/src/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LAB10/lab10.1.643449642/src/BTNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LAB10/lab10.1.643449642/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LAB10/lab10.1.643449642/src/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LAB10/lab10.1.643449642/src/sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab11.1.6434496423.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab11.1.6434496423/Heap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab11.1.6434496423/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LAB9/lab9.1.6434496423/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LAB9/lab9.1.6434496423/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LAB9/lab9.1.6434496423/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LAB9/lab9.1.6434496423/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LAB9/lab9.1.6434496423/lab9.1.6434496423.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LAB9/lab9.1.6434496423/src/AVLNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LAB9/lab9.1.6434496423/src/AVLTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LAB9/lab9.1.6434496423/src/ArrayStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LAB9/lab9.1.6434496423/src/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LAB9/lab9.1.6434496423/src/BTNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LAB9/lab9.1.6434496423/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LAB9/lab9.1.6434496423/src/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise/BST/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise/BST/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise/BST/out/production/BST/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise/BST/out/production/BST/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise/BST/out/production/BST/datastr/BST.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise/BST/out/production/BST/datastr/BST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise/BST/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise/BST/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise/BST/src/datastr/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise/BST/src/datastr/BST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise/heap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise/heap/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LAB3/lab3.2.6434496423/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB3/lab3.2.6434496423/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LAB4/lab4.2.6434496423/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB4/lab4.2.6434496423/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LAB5/lab5.2.6434496423/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB5/lab5.2.6434496423/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HCgbGiBwl35MzwpruQph1arFez" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ad54122-90a0-4e1e-b929-0a73d530d1f7" name="Changes" comment="" />
+      <created>1667794549987</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667794549987</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

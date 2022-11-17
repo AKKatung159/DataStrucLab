@@ -60,4 +60,105 @@ public class BST {
     public void printTree(){
         printTree(root);
     }
+    public boolean contains (int data){
+        BTNode s=root;
+        while (s!=null){
+            if(data==s.getElement()){
+                return true;
+            } else if (data>s.getElement()) {
+                s=s.getRight();
+            } else if (data<s.getElement()) {
+                s=s.getLeft();
+            }
+        }
+        return false;
+    }
+    public int getMax(){
+        BTNode s=root;
+        int ans=0;
+        if(root==null){
+            return ans;
+        }
+        while (s.getRight()!=null){
+            s=s.getRight();
+            ans=s.element;
+        }
+        return ans;
+    }
+    public int getMin(){
+        BTNode s=root;
+        int ans=0;
+        if(root==null){
+            return ans;
+        }
+        while (s.getLeft()!=null){
+            s=s.getLeft();
+            ans=s.element;
+        }
+        return ans;
+    }
+    public void remove(int element){
+        BTNode s=root;
+        BTNode p=root;
+        while (s!=null&&s.getElement()==element){
+            p=s;
+            if (element>s.getElement()) {
+                s=s.getRight();
+            } else if (element<s.getElement()) {
+                s=s.getLeft();
+            }
+        }
+        if(s==null){
+            System.out.println("ไม่เจอจ้า ไม่ทำ");return;
+        }
+        else {
+            if(s.getLeft()==null&&s.getRight()==null){
+                if(s==root){
+                    root=null;
+                } else if (p.getLeft()==s) {
+                    p.setLeft(null);
+                } else if (p.getRight()==s) {
+                    p.setRight(null);
+                }
+            } else if (s.getLeft()!=null&&s.getRight()!=null) {
+                BTNode q=s.getLeft();
+                BTNode pq=s;
+                while (q.getRight()!=null){
+                    pq=q;
+                    q=q.getRight();
+                }
+                s.setElement(q.getElement());
+                if(pq!=s){
+                    pq.setRight(q.getLeft());
+                }else {
+                    pq.setLeft(q.getLeft());
+                }
+            }
+            else {
+                if(s==root){
+                    if(s.getLeft()!=null){
+                        root=root.getLeft();
+                    }
+                    else if(s.getRight()!=null){
+                        root=root.getRight();
+                    }
+                } else if (p.getLeft()==s) {
+                    if(s.getLeft()!=null){
+                        p.setLeft(s.getLeft());
+                    }
+                    else if(s.getRight()!=null){
+                        p.setRight(s.getRight());
+                    }
+                } else if (p.getRight()==s) {
+                    if(s.getLeft()!=null){
+                        p.setLeft(s.getLeft());
+                    }
+                    else if(s.getRight()!=null){
+                        p.setRight(s.getRight());
+                    }
+                }
+
+            }
+        }
+    }
 }
